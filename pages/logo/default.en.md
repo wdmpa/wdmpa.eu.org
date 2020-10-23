@@ -1,6 +1,7 @@
 ---
 title: Logo
 media_order: 'wdmpa_186x186_logo.png,banner-logo.png'
+body_classes: 'title-center title-h1h2'
 ---
 
 # Logo
