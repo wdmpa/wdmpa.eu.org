@@ -4,4 +4,6 @@ media_order: camping.png
 hero_image: camping.png
 ---
 
-WDMPA
+# WDMPA
+
+**This is the World Developer Emotion Protection Association.**
