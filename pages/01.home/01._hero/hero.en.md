@@ -1,6 +1,7 @@
 ---
 title: Home
 media_order: out-camping.png
+hero_classes: 'text-light hero-large'
 hero_image: out-camping.png
 ---
 
