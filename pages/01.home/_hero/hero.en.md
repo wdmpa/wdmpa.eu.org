@@ -1,7 +1,7 @@
 ---
 title: Home
-media_order: camping.png
-hero_image: camping.png
+media_order: out-camping.png
+hero_image: out-camping.png
 ---
 
 # WDMPA
